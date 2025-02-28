@@ -1,0 +1,31 @@
+## Title: Divine Window: Friends of Warcraft
+## Title-enEN: Divine Window: Friends of Warcraft
+
+## Notes: Stained glass windows for Divine Window: Friends of Warcraft
+## Notes-enEN: a non-typical configurable interface using stained glass design
+
+## RequiredDeps: DivineWindow
+
+## Interface: 30403
+## X-Min-Interface: 30403
+
+## Version: @project-version@
+## IconTexture: Interface\AddOns\DivineWindow_Friends\addonIcon.jpg
+
+## SavedVariables: DivineWindowGlobalVars
+## SavedVariablesPerCharacter: DivineWindowLocalVars
+
+## Author: Darkrider, Dunemaul (EU)
+## LoadOnDemand: 0
+## DefaultState: enabled
+
+## X-Category: UI, Boss, Raids
+## X-Date: @build-date@
+## X-ResetVarsDate: 2024-10-21T00:00:00Z
+## X-License: All Rights Reserved
+
+## X-Website: https://www.curseforge.com/wow/addons/divine-window-friends
+## X-Curse-Project-ID: 1210055
+
+Src/Init.lua
+Src/Locales/English.lua

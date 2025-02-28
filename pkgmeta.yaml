@@ -1,0 +1,19 @@
+package-as: DivineWindow_Friends
+
+required-dependencies:
+  - DivineWindow
+
+ignore:
+  - pkgmeta.yaml
+  - .gitignore
+  - .github
+  - .release
+  - .vscode
+  - .gitignore
+  - .vscode
+  - .gitignore
+  - .git
+  - Thumbs.db
+  - .DS_Store
+
+license-output: LICENSE.txt
